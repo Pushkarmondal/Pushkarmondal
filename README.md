@@ -6,7 +6,7 @@
 
  -->
  # 💫 About Me:
-i am a student right now<br>
+I am a 2nd year student and now I am learning development and exploring various tech <br>
 
 
 ## 🌐 Socials:
