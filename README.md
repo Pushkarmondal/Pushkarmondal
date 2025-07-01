@@ -6,6 +6,10 @@
 
 <p align="left"> <a href="https://twitter.com/pushkarmondal79" target="blank"><img src="https://img.shields.io/twitter/follow/pushkarmondal79?logo=twitter&style=for-the-badge" alt="pushkarmondal79" /></a> </p>
 
+### 🧠 My Notion Portfolio
+
+[🔗 View my Notion Portfolio](https://helix-fifth-e92.notion.site/Pushkar-Mondal-Full-Stack-DevOps-Engineer-223cd6945f1080ae8427cd935a6c9235)
+
 - 🔭 I’m currently working on **various Full Stack and DevOps/SRE projects**
 
 - 🌱 I’m currently learning **Full Stack**
