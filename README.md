@@ -10,17 +10,15 @@
 
 [🔗 View my Notion Portfolio](https://helix-fifth-e92.notion.site/Pushkar-Mondal-Full-Stack-DevOps-Engineer-223cd6945f1080ae8427cd935a6c9235)
 
-- 🔭 I’m currently working on **various Full Stack and DevOps/SRE projects**
+- 🔭 Currently: CTO at a pre-seed startup, building and scaling end-to-end products across Full Stack, DevOps, and Cloud.
 
-- 🌱 I’m currently learning **Full Stack**
+- 🌱 Learning & exploring: Advanced system design, scalable architectures, and startup growth strategies.
 
-- 👯 I’m looking to collaborate on **DevOps and Full Stack projects**
+- 👯 Looking to collaborate on: Early-stage startup products, especially in Full Stack, DevOps, SRE, and Cloud.
 
-- 🤝 I’m looking for help with **Nothing, I can figure it out by myself**
+- 🚀 What I bring: From zero-to-one MVP builds to production-ready deployments, with deep hands-on experience in code, infra, and automation.
 
-- 💬 Ask me about **DevOps, SRE, Cloud and Full Stack**
-
-- 📫 How to reach me **nishitm060@gmail.com**
+- 💬 Ask me about: Building from scratch, scaling infrastructure, CI/CD, Kubernetes, and cloud-native architectures.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
