@@ -9,6 +9,7 @@
 ### 🧠 My Notion Portfolio
 
 [🔗 View my Notion Portfolio](https://helix-fifth-e92.notion.site/Pushkar-Mondal-Full-Stack-DevOps-Engineer-223cd6945f1080ae8427cd935a6c9235)
+[🔗 Portfolio](https://www.nishitdevs.xyz/)
 
 - 🔭 Currently: CTO at a pre-seed startup, building and scaling end-to-end products across Full Stack, DevOps, and Cloud.
 
