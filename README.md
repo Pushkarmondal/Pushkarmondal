@@ -1,4 +1,4 @@
-<h3 align="center">A passionate full stack and (DevOps, Cloud and SRE) developer from India</h3>
+<h3 align="center">A passionate full-stack and (DevOps, Cloud and SRE) developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pushkarmondal&label=Profile%20views&color=0e75b6&style=flat" alt="pushkarmondal" /> </p>
 
@@ -10,7 +10,7 @@
 
 [🔗 Portfolio](https://www.nishitdevs.xyz/)
 
-- 🔭 Currently: CTO at a pre-seed startup, building and scaling end-to-end products across Full Stack, DevOps, and Cloud.
+- 🔭 Currently: CTO(Main Founding Engineer and Co-Founder) at a pre-seed startup, building and scaling end-to-end products across Full Stack, DevOps, and Cloud.
 
 - 🌱 Learning & exploring: Advanced system design, scalable architectures, and startup growth strategies.
 
