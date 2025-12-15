@@ -10,7 +10,7 @@
 
 [🔗 Portfolio](https://www.nishitdevs.xyz/)
 
-- 🔭 Currently: CTO(Main Founding Engineer and Co-Founder) at a pre-seed startup, building and scaling end-to-end products across Full Stack, DevOps, and Cloud.
+- 🔭 Currently: Main Founding Engineer at a pre-seed startup, building and scaling end-to-end products across Full Stack, DevOps, and Cloud.
 
 - 🌱 Learning & exploring: Advanced system design, scalable architectures, and startup growth strategies.
 
