@@ -5,16 +5,28 @@
 ### 🧠 My Portfolio
 
 [🔗 Portfolio](https://www.nishitdevs.xyz/)
+# 🚀 Founding Engineer | Backend & Cloud Systems
 
-- 🔭 Currently: Main Founding Engineer at a pre-seed startup, building and scaling end-to-end products across Full Stack, DevOps, and Cloud.
+Founding Engineer at a pre-seed startup. I architect systems that survive real traffic, not just demo-day builds. 
 
-- 🌱 Learning & exploring: Advanced system design, scalable architectures, and startup growth strategies.
+### 📈 Recent Impact
+* **Scale & Revenue:** Shipped backend for **2,000+ users**; hit revenue within **15 days** of launch.
+* **Cost Efficiency:** Slashed AWS infra costs by **50%** via ARM migration & storage optimization.
+* **Reliability:** Eliminated Node.js OOM crashes through heap profiling; implemented automated CI/CD.
+* **AI Ops:** Architected production **RAG pipelines** using FastAPI, LangChain, and Pinecone.
 
-- 👯 Looking to collaborate on: Early-stage startup products, especially in Full Stack, DevOps, SRE, and Cloud.
+### 🛠 Technical Stack
+* **Languages & Frameworks:** TypeScript (Node.js), Python (FastAPI).
+* **Data & Performance:** PostgreSQL (Prisma), Redis, Vector DBs (Pinecone).
+* **Infrastructure:** AWS, Docker, Kubernetes, Terraform.
+* **AI Systems:** LLM Integrations, Embeddings, Production RAG.
 
-- 🚀 What I bring: From zero-to-one MVP builds to production-ready deployments, with deep hands-on experience in code, infra, and automation.
+### ⚡ Engineering Principles
+* **0 → 1 Execution:** Building from scratch and hardening for real-world chaos.
+* **System Integrity:** Clean architecture, fault tolerance, and extreme cost discipline.
+* **Stability:** Scaling without drama; systems that stay up when traffic spikes.
 
-- 💬 Ask me about: Building from scratch, scaling infrastructure, CI/CD, Kubernetes, and cloud-native architectures.
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
