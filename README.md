@@ -2,6 +2,8 @@
 
 <p align="left"> <a href="https://twitter.com/pushkarmondal79" target="blank"><img src="https://img.shields.io/twitter/follow/pushkarmondal79?logo=twitter&style=for-the-badge" alt="pushkarmondal79" /></a> </p>
 
+![Profile views counter](https://komarev.com/ghpvc/?username=Pushkarmondal)
+
 ### 🧠 My Portfolio
 
 [🔗 Portfolio](https://www.nishitdevs.xyz/)
