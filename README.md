@@ -74,16 +74,16 @@ Founding Engineer at a pre-seed startup. I architect systems that survive real t
 
 **`Founding Engineer · Backend & Cloud Systems · AI/GenAI`**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Architecting+systems+that+survive+real+traffic%2C+not+just+demo-day+builds.;0+%E2%86%92+1+execution+%7C+Fault+tolerance+%7C+Extreme+cost+discipline.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&multiline=true&width=600&height=60&lines=building+systems+that+survive+real+traffic%2C+not+just+demo-day+builds.;0+%E2%86%92+1+execution+%7C+Fault+tolerance+%7C+Extreme+cost+discipline.)](https://git.io/typing-svg)
 
 <br/>
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/pushkarmondal79)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pushkar-mondal/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00FF9C?style=for-the-badge&logo=vercel&logoColor=black)](https://www.nishitdevs.xyz/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-007BFF?style=for-the-badge&logo=vercel&logoColor=black)](https://www.nishitdevs.xyz/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/pushkar_7908/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Pushkarmondal&style=for-the-badge&color=00FF9C&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Pushkarmondal&style=for-the-badge&color=E5533D&label=PROFILE+VIEWS)
 
 </div>
 
@@ -102,12 +102,12 @@ Founding Engineer at a pre-seed startup. I architect systems that survive real t
 <div align="center">
 
 | 🚀 Metric | 📊 Result | 🛠 Method |
-|:---|:---:|:---|
-| **Users Served** | `2,000+` | Production backend shipped from scratch |
-| **Time to Revenue** | `15 days` | Post-launch execution |
-| **Infrastructure Cost** | `↓ 50%` | ARM migration + storage optimization |
-| **OOM Crashes** | `0` | Heap profiling + process hardening |
-| **CI/CD** | `Automated` | Self-healing deployment pipelines |
+|---|---|---|
+| Users Served | ![](https://img.shields.io/badge/Users-2000%2B-007BFF?style=flat-square) | Production backend shipped |
+| Time to Revenue | ![](https://img.shields.io/badge/Time-15_days-6F42C1?style=flat-square) | Post-launch execution |
+| Infra Cost | ![](https://img.shields.io/badge/Cost-50%25↓-6F42C1?style=flat-square) | ARM migration |
+| OOM Crashes | ![](https://img.shields.io/badge/OOM-1-6F42C1?style=flat-square) | Heap profiling |
+| CI/CD | ![](https://img.shields.io/badge/CI%2FCD-Automated-E5533D?style=flat-square) | Self-healing pipelines |
 
 </div>
 
@@ -148,7 +148,6 @@ drwxr-xr-x  devops_sre/             → CI/CD, heap profiling, cost ops
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 **Backend & APIs**
 
@@ -169,6 +168,8 @@ drwxr-xr-x  devops_sre/             → CI/CD, heap profiling, cost ops
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FF9D00?style=flat-square&logo=huggingface&logoColor=black)
 
 **Infrastructure & Cloud**
 
@@ -269,7 +270,7 @@ class EngineeringPhilosophy:
 
 [![Twitter](https://img.shields.io/badge/@pushkarmondal79-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pushkarmondal79)
 [![LinkedIn](https://img.shields.io/badge/pushkar--mondal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pushkar-mondal/)
-[![Portfolio](https://img.shields.io/badge/nishitdevs.xyz-00FF9C?style=for-the-badge&logo=vercel&logoColor=black)](https://www.nishitdevs.xyz/)
+[![Portfolio](https://img.shields.io/badge/nishitdevs.xyz-007BFF?style=for-the-badge&logo=vercel&logoColor=black)](https://www.nishitdevs.xyz/)
 
 <br/>
 
